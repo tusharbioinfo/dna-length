@@ -1,4 +1,4 @@
-#DNA Length & GC Content Analysis
+# DNA Length & GC Content Analysis
 
 A simple Python-based bioinformatics tool for calculating the length and GC content of a DNA sequence.
 
@@ -6,16 +6,12 @@ A simple Python-based bioinformatics tool for calculating the length and GC cont
 
 DNA Sequence
 
-     ↓
 Sequence Processing
 
-     ↓
 DNA Length
 
-     ↓
 GC Content Calculation
 
-     ↓
 Results
 
 **Repository Structure**
